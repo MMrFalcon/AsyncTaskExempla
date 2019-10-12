@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <include
-        android:id="@+id/progressBarL"
+        android:id="@+id/included_progress_bar"
         android:visibility="gone"
         layout="@layout/progress_bar_layout"/>
 
