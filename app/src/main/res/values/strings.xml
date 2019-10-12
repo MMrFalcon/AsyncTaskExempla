@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AsyncTaskExempla</string>
+    <string name="progess_bar_Text">Please wait ...</string>
 </resources>
